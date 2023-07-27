@@ -23,7 +23,7 @@
         <!-- navbar  -->
         <nav class = "navbar">
             <div class = "container flex">
-                <a href = "index.html" class = "site-brand">
+                <a href = "index.jsp" class = "site-brand">
                     Telangana <span>Tourism</span>
                 </a>
 
@@ -36,16 +36,16 @@
                     </button>
                     <ul class = "navbar-nav">
                         <li class = "nav-item">
-                            <a href = "index.html" class = "nav-link">Home</a>
+                            <a href = "index.jsp" class = "nav-link">Home</a>
                         </li>
                         <li class = "nav-item">
-                            <a href = "packages.html" class = "nav-link">Packages</a>
+                            <a href = "packages.jsp" class = "nav-link">Packages</a>
                         </li>
                         <!-- <li class = "nav-item">
                             <a href = "#" class = "nav-link">Hotels</a>
                         </li> -->
                         <li class = "nav-item">
-                            <a href = "about.html" class = "nav-link">About</a>
+                            <a href = "about.jsp" class = "nav-link">About</a>
                         </li>
                         <li class = "nav-item">
                             <a href = "logincheck.jsp" class = "nav-link">Admin</a>
@@ -174,27 +174,27 @@
             <div class = "container">
                 <div class = "title-wrap">
                     <span class = "sm-title">know about services that we offer</span>
-                    <h2 ><a class="serv-link" href="packages.html" target="_blank">OUR PACKAGES</a></h2>
+                    <h2 ><a class="serv-link" href="packages.jsp" target="_blank">OUR PACKAGES</a></h2>
                 </div>
 
                 <div class = "services-row">
                     <div class = "services-item  my-2 shadow">
                         <img src = "images/mallela-theertham-waterfalls-srisailam-best-waterfalls-near-hyderabad.jpg" alt = "featured place">
                        <h3> Get closer to Nature </h3>
-                        <a href = "packages.html"  class = "serv-btn">Know more</a>
+                        <a href = "packages.jsp"  class = "serv-btn">Know more</a>
                     </div>
                     
                     <div class = "services-item my-2 shadow">
                         <img src = "images/hitech-city.jpg" alt = "featured place">
                         <h3>The city center</h3>
-                       <a href = "packages.html"  class = "serv-btn">Know more</a>
+                       <a href = "packages.jsp"  class = "serv-btn">Know more</a>
                     </div>
 
                    
                     <div class = "services-item my-2 shadow">
                         <img src = "images/yadagirigutta-temple.jpg" alt = "featured place">
                        <h3>Spiritual tour</h3>
-                        <a href = "packages.html" class = "serv-btn">Know more</a>
+                        <a href = "packages.jsp" class = "serv-btn">Know more</a>
                     </div>
 
                 </div>
@@ -290,7 +290,7 @@
         <footer class = "py-4">
             <div class = "container footer-row">
                 <div class = "footer-item">
-                    <a href = "index.html" class = "site-brand">
+                    <a href = "index.jsp" class = "site-brand">
                         Telangana<span>Tourism</span>
                     </a>
                     <p class = "text"><ul>
@@ -331,12 +331,12 @@
                 <div class = "footer-item">
                     <h2>Popular Places:</h2>
                     <ul>
-                        <li><a href = "index.html#featured">Warangal</a></li>
-                        <li><a href =  "index.html#featured">Ramoji Film City</a></li>
-                        <li><a href =  "index.html#featured">Hyderabad</a></li>
-                        <li><a href =  "index.html#featured">Ananthagiri Hills</a></li>
-                        <li><a href =  "index.html#featured">Ramoji Film City</a></li>
-                        <li><a href =  "index.html#featured">Bhadrachalam</a></li>
+                        <li><a href = "index.jsp#featured">Warangal</a></li>
+                        <li><a href =  "index.jsp#featured">Ramoji Film City</a></li>
+                        <li><a href =  "index.jsp#featured">Hyderabad</a></li>
+                        <li><a href =  "index.jsp#featured">Ananthagiri Hills</a></li>
+                        <li><a href =  "index.jsp#featured">Ramoji Film City</a></li>
+                        <li><a href =  "index.jsp#featured">Bhadrachalam</a></li>
                         
                     </ul>
                 </div>

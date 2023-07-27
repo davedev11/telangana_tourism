@@ -36,7 +36,7 @@
         <!-- navbar  -->
         <nav class = "navbar">
             <div class = "container flex">
-                <a href = "index.html" class = "site-brand">
+                <a href = "index.jsp" class = "site-brand">
                     Telangana <span>Tourism</span>
                 </a>
 
@@ -49,26 +49,25 @@
                     </button>
                     <ul class = "navbar-nav">
                         <li class = "nav-item">
-                            <a href = "index.html" class = "nav-link">Home</a>
+                            <a href = "index.jsp" class = "nav-link">Home</a>
                         </li>
                         <li class = "nav-item">
-                            <a href = "packages.html" class = "nav-link">Packages</a>
+                            <a href = "packages.jsp" class = "nav-link">Packages</a>
                         </li>
                         <!-- <li class = "nav-item">
                             <a href = "#" class = "nav-link">Hotels</a>
                         </li> -->
                         <li class = "nav-item">
-                            <a href = "about.html" class = "nav-link">About</a>
+                            <a href = "about.jsp" class = "nav-link">About</a>
                         </li>
                         <li class = "nav-item">
-                            <a href = "login.html" class = "nav-link">Admin</a>
+                            <a href = "logincheck.jsp" class = "nav-link">Admin</a>
                         </li>
                     </ul>
                 </div>
             </div>
         </nav>
         <!-- end of navbar  -->
-
         <!-- header -->
         <header class = "flex header-sm">
             <div class = "container">
@@ -199,18 +198,19 @@ if(request.getParameter("submit")!=null){
      
  --%>
 
-        <!-- footer -->
+               <!-- footer -->
         <footer class = "py-4">
             <div class = "container footer-row">
                 <div class = "footer-item">
-                    <a href = "index.html" class = "site-brand">
+                    <a href = "index.jsp" class = "site-brand">
                         Telangana<span>Tourism</span>
                     </a>
                     <p class = "text"><ul>
                         <li>3-5-891, Tourism House Himayatnagar, Hyderabad - 500 029, Telangana, India.</li>
                         <br />
-                        <li> ☏ 1800-425-46464</li><br />
-                        <li><a href = "#">✉ testmail.gov@gmail.in</a></li>
+                        <li> â 1800-425-46464</li><br />
+                        <li><a href = "#">â testmail.gov@gmail.in</a></li>
+                    </ul></p>
                 </div>
 
                 <div class = "footer-item">
@@ -243,12 +243,12 @@ if(request.getParameter("submit")!=null){
                 <div class = "footer-item">
                     <h2>Popular Places:</h2>
                     <ul>
-                         <li><a href = "index.html#featured">Warangal</a></li>
-                        <li><a href =  "index.html#featured">Ramoji Film City</a></li>
-                        <li><a href =  "index.html#featured">Hyderabad</a></li>
-                        <li><a href =  "index.html#featured">Ananthagiri Hills</a></li>
-                        <li><a href =  "index.html#featured">Ramoji Film City</a></li>
-                        <li><a href =  "index.html#featured">Bhadrachalam</a></li>
+                        <li><a href = "index.jsp#featured">Warangal</a></li>
+                        <li><a href =  "index.jsp#featured">Ramoji Film City</a></li>
+                        <li><a href =  "index.jsp#featured">Hyderabad</a></li>
+                        <li><a href =  "index.jsp#featured">Ananthagiri Hills</a></li>
+                        <li><a href =  "index.jsp#featured">Ramoji Film City</a></li>
+                        <li><a href =  "index.jsp#featured">Bhadrachalam</a></li>
                         
                     </ul>
                 </div>
@@ -263,6 +263,7 @@ if(request.getParameter("submit")!=null){
             </div>
         </footer>
         <!-- end of footer -->
+
 
         <!-- js -->
         <script src = "js/script.js"></script>

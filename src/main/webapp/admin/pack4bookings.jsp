@@ -36,10 +36,11 @@
 
 <body>
 
+				 
 				 <!-- navbar  -->
 				        <nav class = "navbar">
 				            <div class = "container flex">
-				                <a href = "../index.html" class = "site-brand">
+				                <a href = "../index.jsp" class = "site-brand">
 				                    Telangana <span>Tourism</span>
 				                </a>
 				
@@ -52,16 +53,16 @@
 				                    </button>
 				                    <ul class = "navbar-nav">
 				                        <li class = "nav-item">
-				                            <a href = "../index.html" class = "nav-link">Home</a>
+				                            <a href = "../index.jsp" class = "nav-link">Home</a>
 				                        </li>
 				                        <li class = "nav-item">
-				                            <a href = "../packages.html" class = "nav-link">Packages</a>
+				                            <a href = "../packages.jsp" class = "nav-link">Packages</a>
 				                        </li>
 				                        <!-- <li class = "nav-item">
 				                            <a href = "#" class = "nav-link">Hotels</a>
 				                        </li> -->
 				                        <li class = "nav-item">
-				                            <a href = "../about.html" class = "nav-link">About</a>
+				                            <a href = "../about.jsp" class = "nav-link">About</a>
 				                        </li>
 				                        <li class = "nav-item">
 				                            <a href = "#" class = "nav-link">Profile</a>
@@ -133,71 +134,72 @@
 		        <!-- end of about section -->
 		
 		
-		        <!-- footer -->
-		        <footer class = "py-4">
-		            <div class = "container footer-row">
-		                <div class = "footer-item">
-		                    <a href = "../index.html" class = "site-brand">
-		                        Telangana<span>Tourism</span>
-		                    </a>
-		                    <p class = "text"><ul>
-		                        <li>3-5-891, Tourism House Himayatnagar, Hyderabad - 500 029, Telangana, India.</li>
-		                        <br />
-		                        <li> ☏ 1800-425-46464</li><br />
-		                        <li><a href = "#">✉ testmail.gov@gmail.in</a></li>
-		                    </ul></p>
-		                </div>
-		
-		                <div class = "footer-item">
-		                    <h2>Follow us: </h2>
-		                    <ul class = "social-links">
-		                        <li>
-		                            <a href = "https://www.facebook.com/"  target="_blank">
-		                                <i class = "fab fa-facebook-f"></i>
-		                            </a>
-		                        </li>
-		                        <li>
-		                            <a href = "https://www.instagram.com/"  target="_blank">
-		                                <i class = "fab fa-instagram"></i>
-		                            </a>
-		                        </li>
-		                        <li>
-		                            <a href = "https://twitter.com/"  target="_blank">
-		                                <i class = "fab fa-twitter"></i>
-		                            </a>
-		                        </li>
-		                        <li>
-		                            <a href = "https://in.pinterest.com/"  target="_blank">
-		                                <i class = "fab fa-pinterest"></i>
-		                            </a>
-		                        </li>
-		                       
-		                    </ul>
-		                </div>
-		
-		                <div class = "footer-item">
-		                    <h2>Popular Places:</h2>
-		                    <ul>
-		                        <li><a href = "../index.html#featured">Warangal</a></li>
-		                        <li><a href =  "../index.html#featured">Ramoji Film City</a></li>
-		                        <li><a href =  "../index.html#featured">Hyderabad</a></li>
-		                        <li><a href =  "../index.html#featured">Ananthagiri Hills</a></li>
-		                        <li><a href =  "../index.html#featured">Ramoji Film City</a></li>
-		                        <li><a href =  "../index.html#featured">Bhadrachalam</a></li>
-		                        
-		                    </ul>
-		                </div>
-		
-		                <div class = "subscribe-form footer-item">
-		                    <h2>Subscribe for Newsletter!</h2>
-		                    <form class = "flex">
-		                        <input type = "email" placeholder="Enter Email" class = "form-control">
-		                        <input type = "submit" class = "btn" value = "Subscribe">
-		                    </form>
-		                </div>
-		            </div>
-		        </footer>
-		        <!-- end of footer -->
+		    
+        <!-- footer -->
+        <footer class = "py-4">
+            <div class = "container footer-row">
+                <div class = "footer-item">
+                    <a href = "../index.jsp" class = "site-brand">
+                        Telangana<span>Tourism</span>
+                    </a>
+                    <p class = "text"><ul>
+                        <li>3-5-891, Tourism House Himayatnagar, Hyderabad - 500 029, Telangana, India.</li>
+                        <br />
+                        <li> ☏ 1800-425-46464</li><br />
+                        <li><a href = "#">✉ testmail.gov@gmail.in</a></li>
+                    </ul></p>
+                </div>
+
+                <div class = "footer-item">
+                    <h2>Follow us: </h2>
+                    <ul class = "social-links">
+                        <li>
+                            <a href = "https://www.facebook.com/"  target="_blank">
+                                <i class = "fab fa-facebook-f"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href = "https://www.instagram.com/"  target="_blank">
+                                <i class = "fab fa-instagram"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href = "https://twitter.com/"  target="_blank">
+                                <i class = "fab fa-twitter"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href = "https://in.pinterest.com/"  target="_blank">
+                                <i class = "fab fa-pinterest"></i>
+                            </a>
+                        </li>
+                       
+                    </ul>
+                </div>
+
+                <div class = "footer-item">
+                    <h2>Popular Places:</h2>
+                    <ul>
+                        <li><a href = "../index.jsp#featured">Warangal</a></li>
+                        <li><a href =  "../index.jsp#featured">Ramoji Film City</a></li>
+                        <li><a href =  "../index.jsp#featured">Hyderabad</a></li>
+                        <li><a href =  "../index.jsp#featured">Ananthagiri Hills</a></li>
+                        <li><a href =  "../index.jsp#featured">Ramoji Film City</a></li>
+                        <li><a href =  "../index.jsp#featured">Bhadrachalam</a></li>
+                        
+                    </ul>
+                </div>
+
+                <div class = "subscribe-form footer-item">
+                    <h2>Subscribe for Newsletter!</h2>
+                    <form class = "flex">
+                        <input type = "email" placeholder="Enter Email" class = "form-control">
+                        <input type = "submit" class = "btn" value = "Subscribe">
+                    </form>
+                </div>
+            </div>
+        </footer>
+        <!-- end of footer -->
 		
 		        <!-- js -->
 		        <script src = "../js/script.js"></script>

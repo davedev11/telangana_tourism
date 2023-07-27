@@ -92,10 +92,10 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
   </head>
     <body>
-        <!-- navbar  -->
+         <!-- navbar  -->
         <nav class = "navbar">
             <div class = "container flex">
-                <a href = "../index.html" class = "site-brand">
+                <a href = "../index.jsp" class = "site-brand">
                     Telangana <span>Tourism</span>
                 </a>
 
@@ -108,14 +108,16 @@
                     </button>
                     <ul class = "navbar-nav">
                         <li class = "nav-item">
-                            <a href = "../index.html" class = "nav-link">Home</a>
+                            <a href = "../index.jsp" class = "nav-link">Home</a>
                         </li>
                         <li class = "nav-item">
-                            <a href = "../packages.html" class = "nav-link">Packages</a>
+                            <a href = "../packages.jsp" class = "nav-link">Packages</a>
                         </li>
-                        
+                        <!-- <li class = "nav-item">
+                            <a href = "#" class = "nav-link">Hotels</a>
+                        </li> -->
                         <li class = "nav-item">
-                            <a href = "../about.html" class = "nav-link">About</a>
+                            <a href = "../about.jsp" class = "nav-link">About</a>
                         </li>
                         <li class = "nav-item">
                             <a href = "../logincheck.jsp" class = "nav-link">Admin</a>
@@ -265,11 +267,13 @@
  </script>
         
 
+      
+
         <!-- footer -->
         <footer class = "py-4">
             <div class = "container footer-row">
                 <div class = "footer-item">
-                    <a href = "../index.html" class = "site-brand">
+                    <a href = "../index.jsp" class = "site-brand">
                         Telangana<span>Tourism</span>
                     </a>
                     <p class = "text"><ul>
@@ -310,12 +314,12 @@
                 <div class = "footer-item">
                     <h2>Popular Places:</h2>
                     <ul>
-                       <li><a href = "../index.html#featured">Warangal</a></li>
-                        <li><a href =  "../index.html#featured">Ramoji Film City</a></li>
-                        <li><a href =  "../index.html#featured">Hyderabad</a></li>
-                        <li><a href =  "../index.html#featured">Ananthagiri Hills</a></li>
-                        <li><a href =  "../index.html#featured">Ramoji Film City</a></li>
-                        <li><a href =  "../index.html#featured">Bhadrachalam</a></li>
+                         <li><a href = "../index.jsp#featured">Warangal</a></li>
+                        <li><a href =  "../index.jsp#featured">Ramoji Film City</a></li>
+                        <li><a href =  "../index.jsp#featured">Hyderabad</a></li>
+                        <li><a href =  "../index.jsp#featured">Ananthagiri Hills</a></li>
+                        <li><a href =  "../index.jsp#featured">Ramoji Film City</a></li>
+                        <li><a href =  "../index.jsp#featured">Bhadrachalam</a></li>
                     </ul>
                 </div>
 
