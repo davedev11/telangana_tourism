@@ -5,8 +5,6 @@ Here are few glimpses of the website.
 
 ![1-home](https://github.com/davedev11/telangana_tourism/assets/103503993/b5d09d07-6764-4004-947c-f6dc73d0b5dc)
 
-
-![2-featured](https://github.com/davedev11/telangana_tourism/assets/103503993/32ca9c00-0bd0-4e71-bd15-1c45a24a6c34)
 ![3-services](https://github.com/davedev11/telangana_tourism/assets/103503993/d4755537-5309-405f-936a-8ba66e2eab80)
 ![4-packages](https://github.com/davedev11/telangana_tourism/assets/103503993/928648b0-01d2-4a49-a1b1-df1ed7731824)
 
